@@ -1,3 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>阿涛的Blog</title><link>https://billowssun.github.io</link><description>记录一下折腾过的东西</description><copyright>阿涛的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/55521033?v=4</url><title>avatar</title><link>https://billowssun.github.io</link></image><lastBuildDate>Sat, 27 Jul 2024 01:39:39 +0000</lastBuildDate><managingEditor>阿涛的Blog</managingEditor><ttl>60</ttl><webMaster>阿涛的Blog</webMaster><item><title>百度网盘会随机推送测试版本。</title><link>https://billowssun.github.io/post/bai-du-wang-pan-hui-sui-ji-tui-song-ce-shi-ban-ben-%E3%80%82.html</link><description>![image](https://github.com/user-attachments/assets/2dcf0258-2188-4b16-9fb2-7c4b03c43909)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>阿涛的Blog</title><link>https://billowssun.github.io</link><description>记录一下折腾过的东西</description><copyright>阿涛的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/55521033?v=4</url><title>avatar</title><link>https://billowssun.github.io</link></image><lastBuildDate>Sat, 27 Jul 2024 07:45:57 +0000</lastBuildDate><managingEditor>阿涛的Blog</managingEditor><ttl>60</ttl><webMaster>阿涛的Blog</webMaster><item><title>AE制作烫金字</title><link>https://billowssun.github.io/post/AE-zhi-zuo-tang-jin-zi.html</link><description>1. 打上`字体`&#13;
+2. 创建`分型杂色`，并且将宽高比设置为`1:6`&#13;
+3. 对`湍流`效果`K关键帧`，速度合适即可&#13;
+4. 预合成`杂色层`，勾选`将所有属性移至新合成`&#13;
+5. 将杂色合成放在字体下面，杂色层`轨道遮罩`设成字体层&#13;
+6. 杂色层添加`cc glass`和`cc blobbylize`，调整到`合适的参数`&#13;
+7. 新建`调节图层`，添加`曲线`，将颜色调整为`金色`&#13;
+&#13;
+![image](https://github.com/user-attachments/assets/882e0b4c-25da-4034-9426-4b98e2b71833)&#13;
+![image](https://github.com/user-attachments/assets/ce37743d-a474-41d1-8ac9-0df47c702e6e)&#13;
+![image](https://github.com/user-attachments/assets/c7328802-da76-4d8e-8ba4-99bb807e9d52)&#13;
+![image](https://github.com/user-attachments/assets/7016f8c5-9cd3-4bd7-8ca9-bc6aa75849b6)&#13;
+![image](https://github.com/user-attachments/assets/7d2a16bd-0c49-474f-b45b-f82aec885bec)&#13;
+&#13;
+。</description><guid isPermaLink="true">https://billowssun.github.io/post/AE-zhi-zuo-tang-jin-zi.html</guid><pubDate>Sat, 27 Jul 2024 07:37:01 +0000</pubDate></item><item><title>百度网盘会随机推送测试版本。</title><link>https://billowssun.github.io/post/bai-du-wang-pan-hui-sui-ji-tui-song-ce-shi-ban-ben-%E3%80%82.html</link><description>![image](https://github.com/user-attachments/assets/2dcf0258-2188-4b16-9fb2-7c4b03c43909)&#13;
 。</description><guid isPermaLink="true">https://billowssun.github.io/post/bai-du-wang-pan-hui-sui-ji-tui-song-ce-shi-ban-ben-%E3%80%82.html</guid><pubDate>Sat, 27 Jul 2024 01:38:15 +0000</pubDate></item><item><title>网站后台那个设置网址的作用是什么？</title><link>https://billowssun.github.io/post/wang-zhan-hou-tai-na-ge-she-zhi-wang-zhi-de-zuo-yong-shi-shen-me-%EF%BC%9F.html</link><description>网站后台设置网址的作用主要是定义网站的基本URL结构，这对许多功能至关重要，例如生成内部链接、处理重定向、和识别不同的页面资源。</description><guid isPermaLink="true">https://billowssun.github.io/post/wang-zhan-hou-tai-na-ge-she-zhi-wang-zhi-de-zuo-yong-shi-shen-me-%EF%BC%9F.html</guid><pubDate>Sat, 27 Jul 2024 01:37:34 +0000</pubDate></item></channel></rss>
